@@ -1,0 +1,12 @@
+p {
+  color: orange;
+  font-family: 'Marck Script', cursive;
+}
+ h1 {
+   background-color: magenta;
+ }
+
+img {
+  height: 200px;
+  border-radius: 100px;
+}
